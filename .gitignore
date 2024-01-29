@@ -1,0 +1,9 @@
+wandb/
+**/*.ckpt
+**/*.pt
+**/*.pth
+**/*.png
+**/*.jpg
+**/*.jpeg
+**/*.gif
+**/*.log
